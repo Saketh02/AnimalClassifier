@@ -1,0 +1,2 @@
+# AnimalClassifier
+The Animal Classifier here is cat and dog classifier which takes the inputs of cat and dog images as train data and predicts the test data i.e whether the given image is a cat or a dog. The images are read and the characteristics of the images are obtained using a pretrained model and the prediction is done using a classification algorithm in supervised learning i.e Naive_Bayes.
